@@ -1,0 +1,1 @@
+This program uses paper trading platform of Investopedia, where with a click of a button you can buy , sell, short-sell or buy to cover a specific security. Just insert your Investopedia user-name, password , the desired security, the quantity of this security and the transaction type(i.e buy , sell, short, or cover).
